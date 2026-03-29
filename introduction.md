@@ -1,4 +1,4 @@
-# 1. Introduction
+Ôªø# 1. Introduction
 
 ## 1.1 Project Overview
 
@@ -17,8 +17,8 @@ This project demonstrates the practical implementation of software engineering p
 | **Category**            | **Description**                                                                                                                                                                                                                                                                                                                                                                                      |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Current Situation**   | Customers often face difficulty when searching for suitable furniture online due to scattered platforms, lack of proper categorization, and limited visualization of products. Furniture sellers also struggle to present their products effectively and manage inventory in an organized way. Additionally, administrators lack centralized tools to monitor sales and user activities efficiently. |
-| **Issues Identified**   | ï Difficulty in finding suitable furniture due to poor search and filtering options.<br>ï Lack of detailed product visualization and information.<br>ï Sellers have limited tools to manage inventory and showcase products.<br>ï No centralized system for tracking orders and sales performance.<br>ï Weak user experience in traditional furniture websites.                                      |
-| **Impact**              | ï Customers may leave without making a purchase due to confusion or lack of clarity.<br>ï Sellers lose potential sales Due to the poor product supply..<br>ï «A management that cannot make decisions based on clear data.<br>ï The overall user experience is poor and uncomfortable..                                                                                                                                        |
+| **Issues Identified**   | ‚Ä¢ Difficulty in finding suitable furniture due to poor search and filtering options.<br>‚Ä¢ Lack of detailed product visualization and information.<br>‚Ä¢ Sellers have limited tools to manage inventory and showcase products.<br>‚Ä¢ No centralized system for tracking orders and sales performance.<br>‚Ä¢ Weak user experience in traditional furniture websites.                                      |
+| **Impact**              | ‚Ä¢ Customers may leave without making a purchase due to confusion or lack of clarity.<br>‚Ä¢ Sellers lose potential sales Due to the poor product supply..<br>‚Ä¢ ÿßA management that cannot make decisions based on clear data.<br>‚Ä¢ The overall user experience is poor and uncomfortable..                                                                                                                                        |
 | **Need for a Solution** | There is a need for a smart, centralized platform that allows customers to It makes browsing and selecting the right furniture easy, provides sellers with tools to manage their products, and gives management an integrated monitoring and reporting system, while improving the user experience through smart features such as advanced search and clear categorization..                                                                                                                     |
 
 
@@ -43,10 +43,10 @@ The following features are not included in this project:
 
 - Integration with real payment gateways (will be simulated only)
 - Advanced AI-based recommendations (basic logic only if implemented)
-- Augmented Reality (AR) furniture preview œ«Œ· «·€—›…
+- Augmented Reality (AR) furniture preview ÿØÿßÿÆŸÑ ÿßŸÑÿ∫ÿ±ŸÅÿ©
 - Mobile application (focus will be on web application only)
 - Delivery logistics and real-time shipment tracking systems
-- Multi-language support (optional if time Ì”„Õ)
+- Multi-language support (optional if time Ÿäÿ≥ŸÖÿ≠)
 - 
 ## 1.4 Project Objectives
 
@@ -94,4 +94,4 @@ Each team member works on their assigned tasks, and the system is built step by 
 
 ---
 
-[? Back to README](README.md) | [Next: Stakeholders Analysis ?](./02-stakeholders-analysis.md)
+[‚Üê Back to README](README.md) | [Next: Stakeholders Analysis ‚Üí](./02-stakeholders-analysis.md)
