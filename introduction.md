@@ -1,4 +1,4 @@
-﻿# 1. Introduction
+# 1. Introduction
 
 ## 1.1 Project Overview
 
@@ -20,6 +20,89 @@ This project demonstrates the practical implementation of software engineering p
 | **Issues Identified**   | • Difficulty in finding suitable furniture due to poor search and filtering options.<br>• Lack of detailed product visualization and information.<br>• Sellers have limited tools to manage inventory and showcase products.<br>• No centralized system for tracking orders and sales performance.<br>• Weak user experience in traditional furniture websites.                                      |
 | **Impact**              | • Customers may leave without making a purchase due to confusion or lack of clarity.<br>• Sellers lose potential sales Due to the poor product supply..<br>• اA management that cannot make decisions based on clear data.<br>• The overall user experience is poor and uncomfortable..                                                                                                                                        |
 | **Need for a Solution** | There is a need for a smart, centralized platform that allows customers to It makes browsing and selecting the right furniture easy, provides sellers with tools to manage their products, and gives management an integrated monitoring and reporting system, while improving the user experience through smart features such as advanced search and clear categorization..                                                                                                                     |
+## Functional Requirements
+
+**User Management**
+- The system shall allow users to register accounts.
+- The system shall allow users to log in and log out securely.
+- The system shall support different roles (Customer, Seller, Admin).
+- The system shall allow users to update their profile information.
+- 
+**Product Management**
+- Sellers shall be able to add new furniture products.
+- Sellers shall be able to edit product details.
+- Sellers shall be able to delete products.
+- The system shall display product details (name, price, description, images).
+  
+**Search & Filtering**
+- Users shall be able to search for products by name.
+- Users shall be able to filter products by:
+- Category (e.g., sofa, table, bed)
+- Price range
+- Availability
+  
+**Shopping Cart**
+- Customers shall be able to add products to cart.
+- Customers shall be able to remove products from cart.
+- The system shall calculate total price automatically.
+  
+**Order Management**
+- Customers shall be able to place orders.
+- Customers shall be able to track order status.
+- Sellers shall receive order notifications.
+- Sellers shall update order status (Processing / Shipped / Delivered).
+  
+**Payment System**
+- The system shall allow multiple payment methods.
+- The system shall validate payment transactions.
+- The system shall handle failed payments.
+  
+**Review System**
+- Customers shall be able to rate products.
+- Customers shall be able to write reviews.
+- The system shall display ratings and reviews.
+  
+**Admin Control Panel**
+- Admin shall manage all users.
+- Admin shall monitor orders.
+- Admin shall manage products.
+- Admin shall view analytics and reports.
+
+## Non-Functional Requirements
+**Performance**
+- The system shall respond within 2–3 seconds.
+- The system shall support multiple users simultaneously.
+  
+**Security**
+- All user data shall be encrypted.
+- Authentication and authorization must be implemented.
+- The system shall prevent unauthorized access
+  
+**Usability**
+- The system shall have a simple and user-friendly interface.
+- The system shall be responsive (mobile + desktop).
+  
+**Reliability**
+- The system shall be available 24/7.
+- The system shall handle errors without crashing.
+  
+**Maintainability**
+- The system shall be modular and easy to update.
+- Code shall follow clean architecture principles.
+  
+ ## User Types (Actors)
+- Customer → Browse & Buy furniture
+- Seller → Manage products & orders
+- Admin → Full system control
+  
+##  System Features Summary
+- Online furniture marketplace
+- Multi-vendor system
+- Smart search & filtering
+- Order tracking system
+- Dashboard for all users
+
+
 
 
 ## 1.3 Project Scope
